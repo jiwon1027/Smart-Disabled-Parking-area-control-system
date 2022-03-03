@@ -6,7 +6,7 @@ GPIO.setwarnings(False)
 
 trig = 23
 echo = 24 
-buzzer=26
+buzzer=17
 led_red=27
 led_green=22
 std_distance = 0
