@@ -18,12 +18,36 @@
 |Server OS	 		|`Ubuntu 18.04 	`				 |    
 |Language			|`Python`
 |Prototype      	|`Raspberry Pi 4 Model B 4GB`
-|Camera         	|`42W 850nm IR illuminater Ip Camera`
 |Deep Learning Model|`Yolov5 - Yolov5s`
 |DataBase			|`MariaDB`
 
 ## Usecase Diagram
+||
+|:---:|
+| ![image01](https://user-images.githubusercontent.com/68945145/156536705-a2da50ba-ca22-49ec-a361-8ba49fc7e768.png)|
 
 ## Class Diagram 
+||
+|:---:|
+| ![image02](https://user-images.githubusercontent.com/68945145/156536810-ba5ced70-512e-4193-badf-2489ee358ded.png) |
+| ![image03](https://user-images.githubusercontent.com/68945145/156537028-e77e8ff8-97ea-4276-a104-9ca721923dae.png) |
+
+
 
 ## Sequence Diagram
+|||
+|:---:|:---:|
+| ![image04](https://user-images.githubusercontent.com/68945145/156537050-52b96f99-bc79-4b14-b535-dc6207c5f7ca.png)  | ![image05](https://user-images.githubusercontent.com/68945145/156537058-c9675e60-ce4d-4de3-aacd-028864e31005.png)  |
+|카메라에서 데이터 등록 과정  | 벌금부과 |
+| ![image06](https://user-images.githubusercontent.com/68945145/156537231-3dc640c4-8808-4331-97fc-0b29ddb4ef50.png)| ![image07](https://user-images.githubusercontent.com/68945145/156537239-6bc740a6-0db8-4edb-b079-a667bff71db0.png) |
+|불법 차량 등록 | 불법 차량 조회|
+
+##Result
+
+||
+|:---:|
+|    |
+
+
+
+
